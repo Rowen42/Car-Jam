@@ -1,0 +1,29 @@
+#https://patorjk.com/software/taag/#p=display&f=Slant&t=Level%20Choice
+
+    __                   __   ________          _         
+   / /   ___ _   _____  / /  / ____/ /_  ____  (_)_______ 
+  / /   / _ \ | / / _ \/ /  / /   / __ \/ __ \/ / ___/ _ \
+ / /___/  __/ |/ /  __/ /  / /___/ / / / /_/ / / /__/  __/
+/_____/\___/|___/\___/_/   \____/_/ /_/\____/_/\___/\___/ 
+                                                         
+
+
+
+
+
+	Beginner     (1)
+
+	Intermediate (2)
+
+	Advanced     (3)
+
+	Expert       (4)
+
+
+
+	Practice         (5)
+	(You can use this level to learn how to play the game)
+
+
+Please enter which level number you would like to play:
+

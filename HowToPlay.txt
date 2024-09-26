@@ -1,0 +1,29 @@
+#https://patorjk.com/software/taag/#p=display&f=Slant&t=How%20To%20Play
+    __  __                 ______         ____  __           
+   / / / /___ _      __   /_  __/___     / __ \/ /___ ___  __
+  / /_/ / __ \ | /| / /    / / / __ \   / /_/ / / __ `/ / / /
+ / __  / /_/ / |/ |/ /    / / / /_/ /  / ____/ / /_/ / /_/ / 
+/_/ /_/\____/|__/|__/    /_/  \____/  /_/   /_/\__,_/\__, /  
+                                                    /____/  
+
+The Object:
+
+	Slide the Red Car (X) to freedom!
+
+Set up:
+
+	Start the game and select a level. The levels are Beginner, Intermediate, Advanced and Expert
+	If you are unsure about how to play, there is a practice level that can be selected.
+
+To Play:
+
+	Slide the blocking cars in their lanes - up and down, left and right - until the path is clear for the
+	red car to escape. 
+
+	Vehicles can only slide forward and backward, not sideways.
+
+	To move the cars first you will be asked to choose a car from the grid and the list of cars by selecting 
+	a number then choosing the direction in which you want to move the car. 
+
+	If the car cannot move in the choosen direction you will be asked to pick another. 
+	Once the Red Car (X) reaches the exit (=) the game will finish.
